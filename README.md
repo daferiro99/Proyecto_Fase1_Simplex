@@ -24,5 +24,7 @@ coeficientes separados por espacio   signo   valor
 Ejemplo: 20 50 <= 3000
 --------------------------------------------------
 Restricción 1: 20 50 <= 3000
+
 Restricción 2: 1 1 <= 90
+
 Restricción 3: 0 1 >= 10
