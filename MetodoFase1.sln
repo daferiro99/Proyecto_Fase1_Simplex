@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MetodoFase1", "MetodoFase1\MetodoFase1.pyproj", "{419CE74E-5FDD-4524-9830-6CA67CB2521C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{419CE74E-5FDD-4524-9830-6CA67CB2521C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{419CE74E-5FDD-4524-9830-6CA67CB2521C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6DAFA7C-543C-489C-810D-422C23D0E5D6}
+	EndGlobalSection
+EndGlobal
